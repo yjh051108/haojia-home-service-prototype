@@ -1,1 +1,0 @@
-import{_ as t}from"./AppIcon-Tb93DNUJ.js";import{o,f as s,d as r,e as a}from"./index-DewPOuBD.js";const p={class:"prototype-chip"},m={__name:"PrototypeChip",setup(_){return(n,e)=>(o(),s("span",p,[r(t,{name:"sparkle",size:12,"stroke-width":2}),e[0]||(e[0]=a(" 原型数据 ",-1))]))}};export{m as _};
